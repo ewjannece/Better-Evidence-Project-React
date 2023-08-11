@@ -1,0 +1,327 @@
+.search-result-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.search-result-search-result {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.search-result-rectangle1 {
+  top: -14px;
+  left: 0px;
+  width: 1572px;
+  height: 1038px;
+  position: absolute;
+}
+.search-result-link-better-evidence-project-r-vgoldwidepng {
+  top: 23px;
+  left: 45px;
+  width: 464px;
+  height: 147px;
+  position: absolute;
+}
+.search-result-text {
+  top: 223px;
+  left: 680px;
+  color: rgba(255, 255, 255, 1);
+  width: 253px;
+  height: auto;
+  position: absolute;
+  font-size: 55px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 71px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.search-result-rectangle1906 {
+  top: 376px;
+  left: 283px;
+  width: 987px;
+  height: 496px;
+  position: absolute;
+}
+.search-result-line138 {
+  top: 455px;
+  left: 305px;
+  width: 942px;
+  height: 1px;
+  position: absolute;
+}
+.search-result-group1216400476 {
+  top: 497px;
+  left: 1247.75px;
+  width: 0px;
+  height: 325px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.search-result-line139 {
+  top: 0px;
+  left: 0.0000106546513052308px;
+  width: 325px;
+  height: 1px;
+  position: absolute;
+}
+.search-result-line140 {
+  top: 0px;
+  left: 0.0000106546513052308px;
+  width: 69px;
+  height: 1px;
+  position: absolute;
+}
+.search-result-frame10692757 {
+  gap: 1151px;
+  top: 401px;
+  left: 305px;
+  width: 940px;
+  height: 29px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.search-result-frame10692756 {
+  gap: 29px;
+  display: flex;
+  align-items: center;
+}
+.search-result-iconamoonsearchlight {
+  width: 29px;
+  height: 29px;
+}
+.search-result-text02 {
+  color: rgba(31, 29, 29, 1);
+  height: auto;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.search-result-frame10692764 {
+  gap: 18px;
+  top: 480px;
+  left: 305px;
+  width: 749px;
+  height: 342px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.search-result-frame10692719 {
+  gap: 35px;
+  width: 887px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.search-result-rectangle691 {
+  width: 143px;
+  height: 102px;
+}
+.search-result-frame10692711 {
+  gap: 25px;
+  width: 709px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.search-result-frame10692712 {
+  gap: 15px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.search-result-text03 {
+  color: rgba(31, 29, 29, 1);
+  width: 425px;
+  height: auto;
+  font-size: 23px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 26px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.search-result-text04 {
+  color: rgba(31, 29, 29, 1);
+}
+.search-result-text05 {
+  color: rgba(0, 102, 51, 1);
+}
+.search-result-text06 {
+  color: rgba(31, 29, 29, 1);
+}
+.search-result-text07 {
+  color: rgba(0, 102, 51, 1);
+}
+.search-result-text09 {
+  color: rgba(93, 94, 95, 1);
+  width: 749px;
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 154.90000247955322%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.search-result-frame10692758 {
+  gap: 35px;
+  width: 945px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.search-result-rectangle6911 {
+  width: 143px;
+  height: 102px;
+}
+.search-result-frame106927111 {
+  gap: 25px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.search-result-frame106927121 {
+  gap: 15px;
+  width: 735px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.search-result-text11 {
+  color: rgba(0, 0, 0, 1);
+  width: 478px;
+  height: auto;
+  font-size: 23px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 26px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.search-result-text12 {
+  color: rgba(0, 0, 0, 1);
+}
+.search-result-text13 {
+  color: rgba(0, 102, 51, 1);
+}
+.search-result-text14 {
+  color: rgba(0, 0, 0, 1);
+}
+.search-result-text15 {
+  color: rgba(0, 102, 51, 1);
+}
+.search-result-text17 {
+  color: rgba(93, 94, 95, 1);
+  width: 735px;
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 154.90000247955322%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.search-result-frame10692759 {
+  gap: 35px;
+  width: 945px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.search-result-rectangle6912 {
+  width: 143px;
+  height: 102px;
+}
+.search-result-frame106927112 {
+  gap: 25px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.search-result-frame106927122 {
+  gap: 15px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.search-result-text19 {
+  color: rgba(31, 29, 29, 1);
+  width: 544px;
+  height: auto;
+  font-size: 23px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 26px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.search-result-text20 {
+  color: rgba(31, 29, 29, 1);
+}
+.search-result-text21 {
+  color: rgba(0, 102, 51, 1);
+}
+.search-result-text22 {
+  color: rgba(31, 29, 29, 1);
+}
+.search-result-text23 {
+  color: rgba(0, 102, 51, 1);
+}
+.search-result-text24 {
+  color: rgba(31, 29, 29, 1);
+}
+.search-result-text25 {
+  color: rgba(93, 94, 95, 1);
+  width: 733px;
+  height: auto;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 154.90000247955322%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.search-result-iconamooncloselight {
+  top: 40px;
+  left: 1422px;
+  width: 69px;
+  height: 69px;
+  position: absolute;
+}

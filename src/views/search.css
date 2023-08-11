@@ -1,0 +1,209 @@
+.search-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.search-search {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.search-search1 {
+  gap: 102px;
+  top: 0px;
+  left: -57px;
+  width: 1203px;
+  height: 1024px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.search-rectangle1907 {
+  width: 1856px;
+  height: 1066px;
+}
+.search-iconamooncloselight {
+  width: 42px;
+  height: 42px;
+  z-index: 1;
+}
+.search-link-better-evidence-project-r-vgoldwidepng {
+  top: 21px;
+  left: 89px;
+  width: 558px;
+  height: 147px;
+  z-index: 2;
+  position: absolute;
+}
+.search-frame10692762 {
+  gap: 70px;
+  display: flex;
+  z-index: 3;
+  align-items: center;
+  flex-direction: column;
+}
+.search-text {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 65px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 71px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.search-group1216400475 {
+  width: 1316px;
+  height: 79px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(252, 252, 252, 1);
+}
+.search-frame10692757 {
+  gap: 1151px;
+  top: 25px;
+  left: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.search-frame10692756 {
+  gap: 29px;
+  display: flex;
+  align-items: center;
+}
+.search-iconamoonsearchlight {
+  width: 29px;
+  height: 29px;
+}
+.search-text02 {
+  color: rgba(194, 194, 194, 1);
+  height: auto;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.search-text04 {
+  top: 398px;
+  left: 680px;
+  color: rgba(194, 194, 194, 1);
+  height: auto;
+  z-index: 4;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.search-text05 {
+  color: rgba(194, 194, 194, 1);
+  font-weight: 400;
+}
+.search-frame6 {
+  gap: 65px;
+  top: 44px;
+  left: 746px;
+  width: 327px;
+  height: 28px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+}
+.search-frame2 {
+  gap: 45px;
+  top: 0px;
+  left: 0px;
+  width: 419px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+}
+.search-text07 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 140.9000039100647%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.search-text09 {
+  color: rgba(217, 217, 217, 1);
+  height: auto;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 140.9000039100647%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.search-text11 {
+  color: rgba(217, 217, 217, 1);
+  height: auto;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 140.9000039100647%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.search-bigbutton {
+  gap: 10px;
+  top: 36px;
+  left: 1200px;
+  width: 146px;
+  display: flex;
+  padding: 12px 14px 12px 24px;
+  position: absolute;
+  align-items: flex-start;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.search-text13 {
+  color: rgba(0, 123, 124, 1);
+  height: auto;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.search-iconamooncloselight1 {
+  top: 134px;
+  left: 1390px;
+  width: 69px;
+  height: 69px;
+  position: absolute;
+}
